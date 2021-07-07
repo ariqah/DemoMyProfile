@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         //obtain SharedPreferences instance
         SharedPreferences prefs = getPreferences(MODE_PRIVATE);
 
-        //create a SharedPreferences editor; to edit key-value pairs into the editor
+        //obtain SharedPreferences editor; to edit key-value pairs into the editor
         SharedPreferences.Editor prefEditor = prefs.edit();
 
         //setting key-value pairs in the editor
