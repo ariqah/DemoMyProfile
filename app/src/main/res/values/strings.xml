@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo My Profile</string>
+    <string name="name">Name</string>
+    <string name="gpa">GPA</string>
+    <string name="name_hint">Type your name here...</string>
+    <string name="gpa_hint">Enter your GPA here...</string>
+</resources>
